@@ -1,0 +1,1221 @@
+﻿Log file open, 11/24/18 16:53:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Demons_World_Game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1664406927) SRandInit(1664406927).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.366869
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.856s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am LuisPC (192.168.0.8:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.24-18.53.24:212][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.24-18.53.24:212][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.24-18.53.24:444][  0]LogInit: Computer: LUISPC
+[2018.11.24-18.53.24:444][  0]LogInit: User: DELL
+[2018.11.24-18.53.24:444][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.24-18.53.24:444][  0]LogInit: High frequency timer resolution =2.742184 MHz
+[2018.11.24-18.53.24:445][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.24-18.53.24:445][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.24-18.53.24:445][  0]LogMemory: Process Physical Memory: 274.32 MB used, 274.32 MB peak
+[2018.11.24-18.53.24:445][  0]LogMemory: Process Virtual Memory: 264.79 MB used, 264.79 MB peak
+[2018.11.24-18.53.24:445][  0]LogMemory: Physical Memory: 5893.31 MB used,  2164.96 MB free, 8058.27 MB total
+[2018.11.24-18.53.24:445][  0]LogMemory: Virtual Memory: 4795.31 MB used,  2164.96 MB free, 134217728.00 MB total
+[2018.11.24-18.53.25:478][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.11.24-18.53.25:478][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.11.24-18.53.26:912][  0]LogStreaming: Display: Took  1.454s to EndInitTextLocalization.
+[2018.11.24-18.53.26:952][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.24-18.53.28:044][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.24-18.53.28:044][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.24-18.53.34:041][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.24-18.53.34:503][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2018.11.24-18.53.34:503][  0]LogD3D11RHI:       4018/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.24-18.53.34:542][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.11.24-18.53.34:542][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.24-18.53.34:563][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.24-18.53.34:563][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.24-18.53.34:563][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.24-18.53.34:608][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.24-18.53.34:609][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2018.11.24-18.53.34:609][  0]LogWindows: EnumDisplayDevices:
+[2018.11.24-18.53.34:609][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.11.24-18.53.34:609][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.24-18.53.34:610][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.11.24-18.53.34:610][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2018.11.24-18.53.34:610][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.24-18.53.34:610][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2018.11.24-18.53.34:610][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.24-18.53.34:610][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.24-18.53.34:611][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2018.11.24-18.53.34:716][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.24-18.53.34:716][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.24-18.53.34:716][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.24-18.53.35:273][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 5)
+[2018.11.24-18.53.35:394][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Intermediate/Shaders/WorkingDirectory/5404/).
+[2018.11.24-18.53.35:409][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DELL/AppData/Local/Temp/UnrealShaderWorkingDir/C2A2D9F740938F3E8B1632BCFCB59FDA/'.
+[2018.11.24-18.53.37:405][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.24-18.53.37:424][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.24-18.53.37:443][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.24-18.53.37:461][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.24-18.53.37:518][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.24-18.53.37:550][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.24-18.53.37:569][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.24-18.53.37:604][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.24-18.53.37:623][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.24-18.53.37:649][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.24-18.53.37:667][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.24-18.53.37:691][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.24-18.53.37:707][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.24-18.53.37:724][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.24-18.53.37:742][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.24-18.53.37:776][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.24-18.53.37:776][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.24-18.53.37:809][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.24-18.53.37:820][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.24-18.53.37:941][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.24-18.53.38:004][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.24-18.53.38:029][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.24-18.53.38:051][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.24-18.53.38:069][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.24-18.53.38:099][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.24-18.53.38:099][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.24-18.53.39:399][  0]LogXGEController: Cleaning working directory: C:/Users/DELL/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.24-18.53.39:399][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.24-18.53.39:418][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.24-18.53.39:418][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.24-18.53.47:031][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.24-18.53.48:238][  0]LogDerivedDataCache: Loaded boot cache 1.19s 81MB C:/Users/DELL/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.24-18.53.48:238][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DELL/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.24-18.53.48:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.24-18.53.48:238][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.24-18.53.48:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.24-18.53.48:238][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.24-18.53.48:372][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.24-18.53.48:438][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DELL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.24-18.53.48:438][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.24-18.53.48:438][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.24-18.53.48:536][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.24-18.53.48:588][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.24-18.53.48:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.24-18.53.48:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.24-18.53.53:320][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2018.11.24-18.53.58:476][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.24-18.54.00:949][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.24-18.54.00:963][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.24-18.54.00:970][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.24-18.54.00:970][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.24-18.54.00:970][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.24-18.54.00:970][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.24-18.54.02:602][  0]LogNetVersion: Demons_World_Game , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3052913261)
+[2018.11.24-18.54.10:049][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.177006 seconds
+[2018.11.24-18.54.10:084][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.24-18.54.10:084][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.11.24-18.54.10:084][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.24-18.54.34:966][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.24-18.54.35:134][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.24-18.54.36:975][  0]SourceControl: Source control is disabled
+[2018.11.24-18.54.42:159][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.24-18.54.43:022][  0]LogOcInput: OculusInput pre-init called
+[2018.11.24-18.54.44:135][  0]LogEngine: Initializing Engine...
+[2018.11.24-18.54.44:368][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.24-18.54.44:405][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.24-18.54.44:407][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.24-18.54.46:667][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.24-18.54.46:857][  0]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.24-18.54.46:967][  0]LogInit: FAudioDevice initialized.
+[2018.11.24-18.54.47:373][  0]LogDerivedDataCache: Saved boot cache 0.36s 74MB C:/Users/DELL/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.24-18.54.47:404][  0]LogInit: Texture streaming: Enabled
+[2018.11.24-18.54.47:571][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.24-18.54.47:890][  0]LogInit: Transaction tracking system initialized
+[2018.11.24-18.54.48:955][  0]BlueprintLog: New page: Editor Load
+[2018.11.24-18.54.50:420][  0]LocalizationService: Localization service is disabled
+[2018.11.24-18.54.51:959][  0]LogConsoleResponse: Display: 
+[2018.11.24-18.54.56:426][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DELL/Documents/GitHub/Demons_World_Game/Content/' took 0.03s
+[2018.11.24-18.54.56:427][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.24-18.54.56:463][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.24-18.54.56:464][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.24-18.54.56:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.24-18.54.56:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.24-18.54.59:893][  0]Cmd: MAP LOAD FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.24-18.55.00:002][  0]LightingResults: New page: Lighting Build
+[2018.11.24-18.55.00:281][  0]MapCheck: New page: Map Check
+[2018.11.24-18.55.00:281][  0]LightingResults: New page: Lighting Build
+[2018.11.24-18.55.01:421][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc4831280, Size=792, Default__BP_MainCharacter_C Function /Game/Blueprints/Character/BP_MainCharacter.BP_MainCharacter_C:ExecuteUbergraph_BP_MainCharacter
+[2018.11.24-18.55.01:564][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc4831280, Size=792
+[2018.11.24-18.55.01:564][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc4831280, Size=792, Default__BP_MainCharacter_C Function /Engine/Transient.REINST_BP_MainCharacter_C_3:ExecuteUbergraph_BP_MainCharacter
+[2018.11.24-18.55.01:611][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de0112080, Size=792, Default__BP_MainCharacter_C Function /Game/Blueprints/Character/BP_MainCharacter.BP_MainCharacter_C:ExecuteUbergraph_BP_MainCharacter
+[2018.11.24-18.55.01:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc449f820, Size=200, Default__BP_Dove_Projectile_C Function /Game/Blueprints/BP_Dove_Projectile.BP_Dove_Projectile_C:ExecuteUbergraph_BP_Dove_Projectile
+[2018.11.24-18.55.01:690][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc449f820, Size=200
+[2018.11.24-18.55.01:690][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc449f820, Size=200, Default__BP_Dove_Projectile_C Function /Engine/Transient.REINST_BP_Dove_Projectile_C_5:ExecuteUbergraph_BP_Dove_Projectile
+[2018.11.24-18.55.01:696][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc449e160, Size=200, Default__BP_Dove_Projectile_C Function /Game/Blueprints/BP_Dove_Projectile.BP_Dove_Projectile_C:ExecuteUbergraph_BP_Dove_Projectile
+[2018.11.24-18.55.01:772][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc44d5000, Size=768, Default__BP_Dove_C Function /Game/Blueprints/BP_Dove.BP_Dove_C:ExecuteUbergraph_BP_Dove
+[2018.11.24-18.55.01:797][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc44d5000, Size=768
+[2018.11.24-18.55.01:797][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc4456b00, Size=768, Default__BP_Dove_C Function /Engine/Transient.REINST_BP_Dove_C_7:ExecuteUbergraph_BP_Dove
+[2018.11.24-18.55.01:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc4397400, Size=768, Default__BP_Dove_C Function /Game/Blueprints/BP_Dove.BP_Dove_C:ExecuteUbergraph_BP_Dove
+[2018.11.24-18.55.01:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de00f9d00, Size=576, Default__BP_Skeleton_C Function /Game/Blueprints/BP_Skeleton.BP_Skeleton_C:ExecuteUbergraph_BP_Skeleton
+[2018.11.24-18.55.02:008][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021de00f9d00, Size=576
+[2018.11.24-18.55.02:008][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc44c0900, Size=576, Default__BP_Skeleton_C Function /Engine/Transient.REINST_BP_Skeleton_C_13:ExecuteUbergraph_BP_Skeleton
+[2018.11.24-18.55.02:031][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc571d800, Size=576, Default__BP_Skeleton_C Function /Game/Blueprints/BP_Skeleton.BP_Skeleton_C:ExecuteUbergraph_BP_Skeleton
+[2018.11.24-18.55.02:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc573a940, Size=200, Default__BP_Witch_Projectile_Left_C Function /Game/Blueprints/BP_Witch_Projectile_Left.BP_Witch_Projectile_Left_C:ExecuteUbergraph_BP_Witch_Projectile_Left
+[2018.11.24-18.55.02:098][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc573a940, Size=200
+[2018.11.24-18.55.02:098][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc573a940, Size=200, Default__BP_Witch_Projectile_Left_C Function /Engine/Transient.REINST_BP_Witch_Projectile_Left_C_15:ExecuteUbergraph_BP_Witch_Projectile_Left
+[2018.11.24-18.55.02:100][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc57391a0, Size=200, Default__BP_Witch_Projectile_Left_C Function /Game/Blueprints/BP_Witch_Projectile_Left.BP_Witch_Projectile_Left_C:ExecuteUbergraph_BP_Witch_Projectile_Left
+[2018.11.24-18.55.02:121][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc5738e20, Size=200, Default__BP_Witch_Projectile_Right_C Function /Game/Blueprints/BP_Witch_Projectile_Right.BP_Witch_Projectile_Right_C:ExecuteUbergraph_BP_Witch_Projectile_Right
+[2018.11.24-18.55.02:124][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc5738e20, Size=200
+[2018.11.24-18.55.02:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc5738e20, Size=200, Default__BP_Witch_Projectile_Right_C Function /Engine/Transient.REINST_BP_Witch_Projectile_Right_C_17:ExecuteUbergraph_BP_Witch_Projectile_Right
+[2018.11.24-18.55.02:125][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc55fb740, Size=200, Default__BP_Witch_Projectile_Right_C Function /Game/Blueprints/BP_Witch_Projectile_Right.BP_Witch_Projectile_Right_C:ExecuteUbergraph_BP_Witch_Projectile_Right
+[2018.11.24-18.55.02:177][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc56b5c00, Size=992, Default__BP_Witch_C Function /Game/Blueprints/BP_Witch.BP_Witch_C:ExecuteUbergraph_BP_Witch
+[2018.11.24-18.55.02:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc56b5c00, Size=992
+[2018.11.24-18.55.02:188][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc56b5c00, Size=992, Default__BP_Witch_C Function /Engine/Transient.REINST_BP_Witch_C_19:ExecuteUbergraph_BP_Witch
+[2018.11.24-18.55.02:198][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc56b4c00, Size=992, Default__BP_Witch_C Function /Game/Blueprints/BP_Witch.BP_Witch_C:ExecuteUbergraph_BP_Witch
+[2018.11.24-18.55.02:467][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc41b0be8, Size=8, Default__BP_Sky_Sphere_C Function /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:ExecuteUbergraph_BP_Sky_Sphere
+[2018.11.24-18.55.02:479][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc41b0be8, Size=8
+[2018.11.24-18.55.02:479][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc808bdc0, Size=8, Default__BP_Sky_Sphere_C Function /Engine/Transient.REINST_BP_Sky_Sphere_C_21:ExecuteUbergraph_BP_Sky_Sphere
+[2018.11.24-18.55.02:493][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc808b500, Size=8, Default__BP_Sky_Sphere_C Function /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:ExecuteUbergraph_BP_Sky_Sphere
+[2018.11.24-18.55.04:326][  0]LogAIModule: Creating AISystem for world TestMap
+[2018.11.24-18.55.05:666][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.24-18.55.05:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc449f820, Size=200
+[2018.11.24-18.55.05:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc4456b00, Size=768
+[2018.11.24-18.55.05:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc573a940, Size=200
+[2018.11.24-18.55.05:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc5738e20, Size=200
+[2018.11.24-18.55.05:828][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc808bdc0, Size=8
+[2018.11.24-18.55.05:848][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc4831280, Size=792
+[2018.11.24-18.55.05:858][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc56b5c00, Size=992
+[2018.11.24-18.55.05:858][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc44c0900, Size=576
+[2018.11.24-18.55.05:936][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.24-18.55.06:024][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.105ms to complete.
+[2018.11.24-18.55.06:043][  0]LogFileHelpers: Loading map 'TestMap' took 6.171
+[2018.11.24-18.55.07:815][  0]LogCollectionManager: Loaded 0 collections in 0.004478 seconds
+[2018.11.24-18.55.08:009][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DELL/Documents/GitHub/Demons_World_Game/Saved/Collections/' took 0.01s
+[2018.11.24-18.55.08:009][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DELL/Documents/GitHub/Demons_World_Game/Content/Developers/DELL/Collections/' took 0.01s
+[2018.11.24-18.55.08:009][  0]LogFileCache: Scanning file cache for directory 'C:/Users/DELL/Documents/GitHub/Demons_World_Game/Content/Collections/' took 0.01s
+[2018.11.24-18.55.08:009][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.24-18.55.08:024][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2452 classes and 558 folders.
+[2018.11.24-18.55.08:174][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.11.24-18.55.10:542][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.24-18.55.10:753][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.11.24-18.55.15:375][  0]LogSlate: Took 0.021800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.24-18.55.15:428][  0]LogSlate: Took 0.023758 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.24-18.55.15:479][  0]LogSlate: Took 0.050158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.24-18.55.16:384][  0]LogRenderer: Reallocating scene render targets to support 840x748 Format 10 NumSamples 1 (Frame:1).
+[2018.11.24-18.55.18:230][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.24-18.55.18:230][  0]LogLoad: (Engine Initialization) Total time: 145.58 seconds
+[2018.11.24-18.55.18:230][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.24-18.55.19:337][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.24-18.55.19:600][  0]LogSlate: Took 0.023671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.24-18.55.20:283][  2]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.24-18.55.20:943][  4]LogAssetRegistry: Asset discovery search completed in 87.6472 seconds
+[2018.11.24-18.55.21:007][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.24-18.55.21:008][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.029738 seconds (updated 0 objects)
+[2018.11.24-18.55.44:974][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.55.45:332][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dffd49270, Size=8, Default__BP_CubeMov_C Function /Game/Blueprints/Mov-Mesh/BP_CubeMov.BP_CubeMov_C:ExecuteUbergraph_BP_CubeMov
+[2018.11.24-18.55.45:339][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dffd49270, Size=8
+[2018.11.24-18.55.45:339][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dffd49270, Size=8, Default__BP_CubeMov_C Function /Engine/Transient.REINST_BP_CubeMov_C_27:ExecuteUbergraph_BP_CubeMov
+[2018.11.24-18.55.45:349][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dffd490d0, Size=8, Default__BP_CubeMov_C Function /Game/Blueprints/Mov-Mesh/BP_CubeMov.BP_CubeMov_C:ExecuteUbergraph_BP_CubeMov
+[2018.11.24-18.55.45:436][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc451a5c0, Size=200, Default__BP_StepPlataform_C Function /Game/Blueprints/Mov-Mesh/BP_StepPlataform.BP_StepPlataform_C:ExecuteUbergraph_BP_StepPlataform
+[2018.11.24-18.55.45:438][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc451a5c0, Size=200
+[2018.11.24-18.55.45:438][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc56c41e0, Size=200, Default__BP_StepPlataform_C Function /Engine/Transient.REINST_BP_StepPlataform_C_29:ExecuteUbergraph_BP_StepPlataform
+[2018.11.24-18.55.45:440][146]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dc56c5440, Size=200, Default__BP_StepPlataform_C Function /Game/Blueprints/Mov-Mesh/BP_StepPlataform.BP_StepPlataform_C:ExecuteUbergraph_BP_StepPlataform
+[2018.11.24-18.55.50:099][146]LogAIModule: Creating AISystem for world Fase_1
+[2018.11.24-18.55.50:548][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dc56c41e0, Size=200
+[2018.11.24-18.55.50:548][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dffd49270, Size=8
+[2018.11.24-18.55.50:632][146]Cmd: MAP LOAD FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.24-18.55.50:636][146]LightingResults: New page: Lighting Build
+[2018.11.24-18.55.50:639][146]LoadErrors: New page: Loading map: Fase_1.umap
+[2018.11.24-18.55.50:714][146]MapCheck: New page: Map Check
+[2018.11.24-18.55.50:714][146]LightingResults: New page: Lighting Build
+[2018.11.24-18.55.51:668][146]LogEditorServer: Finished looking for orphan Actors (0.006 secs)
+[2018.11.24-18.55.51:811][146]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.24-18.55.52:017][146]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 205.698ms to complete.
+[2018.11.24-18.55.52:018][146]LogFileHelpers: Loading map 'Fase_1' took 1.468
+[2018.11.24-18.57.22:265][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.57.31:860][887]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.24-18.57.43:632][208]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.11.24-18.57.54:034][549]LogMetaData: Removing '/Game/Blueprints/BP_Key.BP_Key:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Chave.PackageMetaData'
+[2018.11.24-18.57.54:035][549]LogMetaData: Removing '/Game/Blueprints/BP_Key.SKEL_BP_Key_C' ref from Metadata '/Game/Blueprints/BP_Chave.PackageMetaData'
+[2018.11.24-18.57.54:035][549]LogMetaData: Removing '/Game/Blueprints/BP_Key.BP_Key_C' ref from Metadata '/Game/Blueprints/BP_Chave.PackageMetaData'
+[2018.11.24-18.57.54:035][549]LogMetaData: Removing '/Game/Blueprints/BP_Key.BP_Key:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Chave.PackageMetaData'
+[2018.11.24-18.57.54:036][549]LogMetaData: Removing '/Game/Blueprints/BP_Key.BP_Key:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Chave.PackageMetaData'
+[2018.11.24-18.57.54:036][549]LogMetaData: Removing '/Game/Blueprints/BP_Key.BP_Key:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Chave.PackageMetaData'
+[2018.11.24-18.57.54:098][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-18.57.54:198][549]LogSavePackage: Save=66.80ms
+[2018.11.24-18.57.54:198][549]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_KeyB4B93E3E43DF3956D04C3B80F80EE1A9.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-18.57.54:269][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-18.58.07:407][891]LogMetaData: Removing '/Game/Blueprints/BP_Door.BP_Door:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Porta.PackageMetaData'
+[2018.11.24-18.58.07:408][891]LogMetaData: Removing '/Game/Blueprints/BP_Door.SKEL_BP_Door_C' ref from Metadata '/Game/Blueprints/BP_Porta.PackageMetaData'
+[2018.11.24-18.58.07:408][891]LogMetaData: Removing '/Game/Blueprints/BP_Door.BP_Door_C' ref from Metadata '/Game/Blueprints/BP_Porta.PackageMetaData'
+[2018.11.24-18.58.07:408][891]LogMetaData: Removing '/Game/Blueprints/BP_Door.BP_Door:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Porta.PackageMetaData'
+[2018.11.24-18.58.07:408][891]LogMetaData: Removing '/Game/Blueprints/BP_Door.BP_Door:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Porta.PackageMetaData'
+[2018.11.24-18.58.07:408][891]LogMetaData: Removing '/Game/Blueprints/BP_Door.BP_Door:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Porta.PackageMetaData'
+[2018.11.24-18.58.07:440][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-18.58.07:485][891]LogSavePackage: Save=34.40ms
+[2018.11.24-18.58.07:486][891]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Door481EAEDB4BC0527FE47660A369A4942D.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-18.58.07:494][891]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-18.58.32:211][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.58.34:203][129]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.24-18.58.34:896][129]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e0985c900, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.24-18.58.34:898][129]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e0985c8f8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.24-18.58.38:553][172]LogRenderer: Reallocating scene render targets to support 868x748 Format 10 NumSamples 1 (Frame:40).
+[2018.11.24-18.58.38:916][191]LogSlate: Window 'BP_Door' being destroyed
+[2018.11.24-18.58.41:628][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.58.42:798][370]LogSlate: Took 0.038245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.24-18.58.49:930][708]LogSlate: Took 0.018494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.24-18.58.54:643][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.58.57:643][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.59.07:441][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.59.17:115][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.59.25:186][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-18.59.28:264][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.00.04:177][284]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.04:302][284]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.04:302][284]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.04:302][284]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.24-19.00.04:302][284]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.24-19.00.05:724][284]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.05:811][284]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.07:804][328]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.08:010][336]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.08:010][336]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.24-19.00.08:360][350]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.24-19.00.08:424][351]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.08:940][370]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.08:969][371]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.09:149][380]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.24-19.00.09:249][385]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.24-19.00.10:212][429]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.24-19.00.10:254][431]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.24-19.00.10:381][437]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.24-19.00.10:515][444]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.24-19.00.11:144][470]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.11:222][470]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.24-19.00.11:222][470]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.24-19.00.11:222][470]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.24-19.00.11:231][470]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.11:262][470]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.11:682][486]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.24-19.00.11:761][489]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.24-19.00.11:884][494]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.24-19.00.12:101][504]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.24-19.00.12:466][521]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.24-19.00.12:533][524]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.24-19.00.12:833][539]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.13:043][548]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.14:065][581]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.24-19.00.14:065][581]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.24-19.00.14:117][584]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.24-19.00.15:287][618]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.15:300][618]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.24-19.00.15:300][618]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.24-19.00.15:714][639]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.11.24-19.00.15:864][646]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.24-19.00.16:282][665]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.11.24-19.00.16:376][669]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.11.24-19.00.16:697][684]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.16:941][696]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.18:164][750]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.18:237][750]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.18:250][750]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.18:301][750]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.18:315][750]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.18:315][750]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.18:745][764]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.19:061][776]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.19:382][791]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.19:430][793]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.24-19.00.20:284][832]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.11.24-19.00.20:531][843]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.24-19.00.20:645][848]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.24-19.00.20:763][853]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.11.24-19.00.21:422][879]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.24-19.00.21:641][889]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.11.24-19.00.21:765][894]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.11.24-19.00.21:894][899]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.24-19.00.22:803][933]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.22:851][933]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.11.24-19.00.23:397][959]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.11.24-19.00.23:773][974]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.11.24-19.00.24:082][984]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.24:099][984]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.24:144][984]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.24:147][984]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.24:165][984]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.24:170][984]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.24:264][985]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.26:686][104]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.26:748][105]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.26:749][105]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.27:894][157]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.00.27:894][157]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.00.27:894][157]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.00.30:274][290]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.30:326][291]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.30:326][291]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.31:408][343]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.00.31:408][343]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.00.31:408][343]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.00.32:721][414]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.32:735][415]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.32:735][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.36:625][622]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.00.36:625][622]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.00.36:625][622]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.00.43:767][ 17]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.43:824][ 18]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.43:824][ 18]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.45:640][100]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.45:652][101]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.45:652][101]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.47:039][161]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.00.47:039][161]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.00.47:039][161]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.00.49:633][306]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.49:749][306]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.49:749][306]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.49:749][306]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.24-19.00.49:884][307]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.49:885][307]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.50:166][319]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.00.50:166][319]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.00.50:167][319]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.00.51:260][360]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.51:282][360]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.51:282][360]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.51:351][360]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.24-19.00.51:394][360]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.51:394][360]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.51:395][360]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.11.24-19.00.51:853][375]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.52:129][386]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.52:297][393]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.00.52:297][393]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.00.52:297][393]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.00.56:437][571]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.24-19.00.56:489][571]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.56:489][571]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.56:489][571]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.11.24-19.00.56:507][571]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.56:507][571]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.56:547][571]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.57:215][591]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.57:315][591]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.57:315][591]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.57:315][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.11.24-19.00.57:345][591]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.57:406][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.24-19.00.57:489][591]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.57:490][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.11.24-19.00.57:624][591]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.24-19.00.57:624][591]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.57:624][591]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.57:655][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.24-19.00.57:662][591]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.11.24-19.00.57:735][591]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.57:745][591]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.24-19.00.57:776][592]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.11.24-19.00.58:063][601]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.11.24-19.00.58:217][608]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.11.24-19.00.58:703][627]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.24-19.00.59:185][645]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.59:301][651]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.00.59:587][662]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.00.59:592][662]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.00.59:611][662]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2018.11.24-19.00.59:665][663]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.11.24-19.01.00:097][680]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.00:273][687]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.00:949][713]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.01.00:950][713]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.00:950][713]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.02:040][767]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.02:049][767]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.02:049][767]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.02:066][767]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.11.24-19.01.02:080][767]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.02:080][767]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.03:252][812]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.01.03:252][812]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.03:252][812]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.05:133][911]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.05:199][912]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.05:199][912]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.06:083][951]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.01.06:083][951]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.06:083][951]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.08:149][ 59]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.08:167][ 60]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.08:167][ 60]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.09:096][101]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.01.09:097][101]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.09:097][101]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.11:359][215]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.11:420][215]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.11:484][216]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.11:484][216]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.12:260][248]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.01.12:260][248]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.12:260][248]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.13:660][318]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.13:727][319]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.13:727][319]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.15:892][419]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.15:898][419]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.15:957][420]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.15:957][420]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.16:713][453]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.11.24-19.01.16:713][453]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.16:713][453]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.18:500][542]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.18:545][542]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.18:593][543]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.18:593][543]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.19:945][598]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.19:959][599]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.19:960][599]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.20:879][638]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.11.24-19.01.20:879][638]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.20:880][638]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.27:997][ 26]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.28:004][ 26]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.28:004][ 26]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.28:021][ 26]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.28:083][ 27]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.28:083][ 27]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.30:156][114]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.11.24-19.01.30:156][114]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.30:156][114]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.33:959][324]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.33:979][324]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.33:996][325]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.33:996][325]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.35:124][375]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.11.24-19.01.35:124][375]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.35:124][375]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.37:063][478]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.37:113][478]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.37:127][479]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.37:127][479]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.37:940][514]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.37:946][514]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.37:946][514]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.38:871][552]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.11.24-19.01.38:871][552]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.38:871][552]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.54:151][389]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.54:197][389]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.54:261][390]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.54:261][390]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.55:092][423]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2018.11.24-19.01.55:092][423]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.55:092][423]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.01.56:141][479]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.01.56:155][480]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.01.56:155][480]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.01.57:305][531]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.01.57:305][531]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.01.57:305][531]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.05:695][  1]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.05:713][  1]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.05:744][  3]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.05:744][  3]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.06:696][ 45]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.02.06:696][ 45]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.02.06:696][ 45]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.09:790][209]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.09:829][209]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.09:849][211]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.09:849][211]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.10:777][251]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.02.10:777][251]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.02.10:777][251]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.14:523][455]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.14:541][457]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.14:541][457]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.15:386][493]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.02.15:386][493]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.02.15:386][493]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.16:348][543]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.16:352][543]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.16:352][543]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.16:367][543]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.16:380][544]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.16:381][544]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.18:308][622]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.18:312][622]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.18:312][622]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.19:258][660]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.02.19:258][660]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.02.19:258][660]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.21:172][763]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.21:211][763]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.21:227][764]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.21:227][764]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.22:133][803]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.02.22:133][803]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.02.22:133][803]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.22:254][809]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.22:269][810]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.22:269][810]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.23:140][846]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.02.23:140][846]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.02.23:140][846]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.26:741][ 42]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.26:835][ 43]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.26:835][ 43]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.27:801][ 88]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.02.27:801][ 88]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.02.27:801][ 88]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.02.55:174][425]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.55:220][426]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.55:220][426]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.02.56:529][486]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.02.56:534][486]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.02.56:534][486]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.00:709][699]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.00:753][700]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.03.00:753][700]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.02:064][765]MaterialEditorStats: Base pass shader without light map: 34 instructions
+[2018.11.24-19.03.02:064][765]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.03.02:064][765]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.03.03:600][849]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.03:610][850]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.03.03:610][850]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.04:867][908]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.04:883][909]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.03.04:883][909]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.05:920][954]MaterialEditorStats: Base pass shader without light map: 35 instructions
+[2018.11.24-19.03.05:920][954]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.03.05:920][954]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.03.11:074][213]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.11:100][214]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.03.11:100][214]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.12:355][267]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.11.24-19.03.12:355][267]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.03.12:355][267]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.03.17:153][511]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.17:230][512]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.03.17:230][512]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.18:166][550]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.11.24-19.03.18:166][550]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.03.18:166][550]MaterialEditorStats: Texture samplers: 0/16
+[2018.11.24-19.03.24:053][862]LogMaterialEditor: Applying material Mat_Pulse
+[2018.11.24-19.03.26:423][862]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.26:434][862]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.24-19.03.26:434][862]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.26:521][862]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.26:588][862]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.24-19.03.26:588][862]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.24-19.03.26:693][862]LogMaterial: Missing cached shader map for material Mat_Pulse, compiling. 
+[2018.11.24-19.03.26:775][862]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.24-19.03.26:905][862]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.24-19.03.26:917][862]TextureStreamingBuild: Display: Compiling optional shaders took 0.011 seconds.
+[2018.11.24-19.03.29:636][969]LogMaterialEditor: Saving and Compiling material Mat_Pulse
+[2018.11.24-19.03.32:210][969]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.24-19.03.32:251][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Mat_Pulse" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Material/Mat_Pulse.uasset" SILENT=true
+[2018.11.24-19.03.32:428][969]LogSavePackage: Save=174.51ms
+[2018.11.24-19.03.32:428][969]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/Mat_Pulse34E04CB440F8AB1A3143379FFE45FF6D.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Material/Mat_Pulse.uasset'
+[2018.11.24-19.03.32:431][969]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Material/Mat_Pulse.uasset
+[2018.11.24-19.03.33:027][969]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.11.24-19.03.33:027][969]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.11.24-19.03.33:027][969]MaterialEditorStats: Texture samplers: 3/16
+[2018.11.24-19.03.41:566][406]BlueprintLog: New page: Compile BP_Key
+[2018.11.24-19.03.45:676][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.03.48:222][730]BlueprintLog: New page: Compile BP_Key
+[2018.11.24-19.03.55:943][127]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.11.24-19.03.55:943][127]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionEnabled' with an invalid value of ''
+[2018.11.24-19.03.55:946][127]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.11.24-19.03.55:946][127]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.11.24-19.04.08:002][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.04.15:564][257]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f6b40, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.18:585][433]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f6b40, Size=4
+[2018.11.24-19.04.18:586][433]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f6b40, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_77:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.18:592][433]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f5028, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.20:771][561]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f5028, Size=4
+[2018.11.24-19.04.20:771][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f5028, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_79:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.20:775][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f5d80, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.22:402][655]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f5d80, Size=4
+[2018.11.24-19.04.22:402][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f5d80, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_81:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.22:404][655]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f52d0, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.27:733][964]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f52d0, Size=4
+[2018.11.24-19.04.27:734][964]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f52d0, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_83:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.27:739][964]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f6b88, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.29:620][ 69]LogSlate: Took 0.024396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.24-19.04.30:755][135]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f6b88, Size=4
+[2018.11.24-19.04.30:755][135]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f6b88, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_85:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.30:757][135]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f6cf0, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.32:840][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f6cf0, Size=4
+[2018.11.24-19.04.32:840][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f6cf0, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_87:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.32:845][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f77e8, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.33:781][310]BlueprintLog: New page: Compile BP_Key
+[2018.11.24-19.04.33:785][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f77e8, Size=4
+[2018.11.24-19.04.33:785][310]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f77e8, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_89:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.33:789][310]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e28def040, Size=184, Default__BP_Key_C Function /Game/Blueprints/BP_Key.BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.04.34:077][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f77e8, Size=4
+[2018.11.24-19.04.34:077][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f6cf0, Size=4
+[2018.11.24-19.04.34:077][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f6b88, Size=4
+[2018.11.24-19.04.34:078][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f52d0, Size=4
+[2018.11.24-19.04.34:078][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f5d80, Size=4
+[2018.11.24-19.04.34:078][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f5028, Size=4
+[2018.11.24-19.04.34:078][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f6b40, Size=4
+[2018.11.24-19.05.00:069][757]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e130acad8, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.05.01:538][841]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e130acad8, Size=4
+[2018.11.24-19.05.01:538][841]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e130acad8, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_97:ExecuteUbergraph_BP_Door
+[2018.11.24-19.05.01:542][841]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e130ae9b8, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.05.02:743][912]BlueprintLog: New page: Compile BP_Door
+[2018.11.24-19.05.02:744][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e130ae9b8, Size=4
+[2018.11.24-19.05.02:744][912]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e130ae9b8, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_99:ExecuteUbergraph_BP_Door
+[2018.11.24-19.05.02:746][912]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e130aefc0, Size=4, Default__BP_Door_C Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.05.03:135][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e130ae9b8, Size=4
+[2018.11.24-19.05.03:135][912]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e130acad8, Size=4
+[2018.11.24-19.05.03:649][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.05.04:089][929]LogSavePackage: Save=31.64ms
+[2018.11.24-19.05.04:089][929]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_DoorF0E657DB45EB206C72BB77AEF997AD82.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.05.04:093][929]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.05.25:764][139]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.11.24-19.05.34:176][589]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e28100838, Size=4, Default__SKEL_BP_Key_C Function /Game/Blueprints/BP_Key.SKEL_BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.05.40:706][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_1" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.24-19.05.41:318][908]LogSavePackage: Save=536.30ms
+[2018.11.24-19.05.41:318][908]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/Fase_13760E1DC44052FD90767B1BEFF349739.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap'
+[2018.11.24-19.05.41:321][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap
+[2018.11.24-19.05.41:400][908]LogFileHelpers: Saving map 'Fase_1' took 1.469
+[2018.11.24-19.05.41:449][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-19.05.41:495][908]LogSavePackage: Save=33.31ms
+[2018.11.24-19.05.41:495][908]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Key9083314E46E6AD8BE5CED1BA5FBC8710.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-19.05.41:503][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-19.06.04:130][197]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e397f3340, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.07:932][422]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e397f3340, Size=4
+[2018.11.24-19.06.07:933][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e397f3340, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_107:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.07:934][422]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e397f3460, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.10:608][576]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e397f3460, Size=4
+[2018.11.24-19.06.10:608][576]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e397f3460, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_109:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.10:610][576]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e397f3848, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.11:897][650]BlueprintLog: New page: Compile BP_Door
+[2018.11.24-19.06.11:897][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e397f3848, Size=4
+[2018.11.24-19.06.11:898][650]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de8411458, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_111:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.11:898][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e28100838, Size=4
+[2018.11.24-19.06.11:898][650]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de84116a8, Size=4, Default__SKEL_BP_Key_C Function /Engine/Transient.REINST_SKEL_BP_Key_C_112:ExecuteUbergraph_BP_Key
+[2018.11.24-19.06.11:905][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e130aefc0, Size=4
+[2018.11.24-19.06.11:905][650]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de84112d8, Size=4, BP_Door_C_1006 Function /Engine/Transient.REINST_BP_Door_C_115:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.11:906][650]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de8411360, Size=4, Default__BP_Door_C Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.12:290][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021de8411458, Size=4
+[2018.11.24-19.06.12:290][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021de84116a8, Size=4
+[2018.11.24-19.06.12:290][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e397f3460, Size=4
+[2018.11.24-19.06.12:291][650]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e397f3340, Size=4
+[2018.11.24-19.06.15:510][836]BlueprintLog: New page: Compile BP_Door
+[2018.11.24-19.06.15:514][836]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021de8411360, Size=4
+[2018.11.24-19.06.15:514][836]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f7610, Size=4, Default__BP_Door_C Function /Engine/Transient.REINST_BP_Door_C_121:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.15:523][836]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e398f76a0, Size=4, Default__BP_Door_C Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.06.15:909][836]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021de84112d8, Size=4
+[2018.11.24-19.06.16:271][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.06.16:298][845]LogSavePackage: Save=20.12ms
+[2018.11.24-19.06.16:298][845]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Door0118BF744D0C42AD1DEE5D9F18F1CE58.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.06.16:301][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.07.00:663][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_1" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.24-19.07.01:202][418]LogSavePackage: Save=505.23ms
+[2018.11.24-19.07.01:202][418]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/Fase_13D868C3945375B7177835E9AF240D14D.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap'
+[2018.11.24-19.07.01:245][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap
+[2018.11.24-19.07.01:297][418]LogFileHelpers: Saving map 'Fase_1' took 0.716
+[2018.11.24-19.07.01:338][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-19.07.01:375][418]LogSavePackage: Save=31.91ms
+[2018.11.24-19.07.01:375][418]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Key29CDB8AD4B809FE4FB9AD982A73113F0.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-19.07.01:378][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-19.07.09:441][893]BlueprintLog: New page: Compile BP_Key
+[2018.11.24-19.07.09:451][893]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e28def040, Size=184
+[2018.11.24-19.07.09:451][893]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e194adb40, Size=184, Default__BP_Key_C Function /Engine/Transient.REINST_BP_Key_C_125:ExecuteUbergraph_BP_Key
+[2018.11.24-19.07.09:455][893]LogBlueprint: Error: [Compiler BP_Key] This blueprint (self) is not a BP_Door_C, therefore ' Target ' must have a connection.
+[2018.11.24-19.07.09:457][893]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dcc76cb00, Size=240, Default__BP_Key_C Function /Game/Blueprints/BP_Key.BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.07.09:642][893]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f7610, Size=4
+[2018.11.24-19.07.09:653][893]LogBlueprint: Warning: [Compiler BP_Key] [0857.00] Compile of BP_Key failed. 1 Fatal Issue(s) 0 Warning(s) [in 212 ms] (/Game/Blueprints/BP_Key.BP_Key)
+[2018.11.24-19.07.10:379][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-19.07.10:419][919]LogSavePackage: Save=33.03ms
+[2018.11.24-19.07.10:419][919]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Key075A9B454054C2691BF219A6BEE2A5EC.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-19.07.10:423][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-19.07.14:672][170]BlueprintLog: New page: Compile BP_Key
+[2018.11.24-19.07.14:686][170]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dcc76cb00, Size=240
+[2018.11.24-19.07.14:687][170]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e2501c200, Size=240, BP_Key_C_267 Function /Engine/Transient.REINST_BP_Key_C_129:ExecuteUbergraph_BP_Key
+[2018.11.24-19.07.14:692][170]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e396cf700, Size=248, Default__BP_Key_C Function /Game/Blueprints/BP_Key.BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.07.14:801][170]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e194adb40, Size=184
+[2018.11.24-19.07.15:602][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-19.07.15:641][206]LogSavePackage: Save=34.04ms
+[2018.11.24-19.07.15:641][206]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_KeyEEE6AAAA46837065528ADD96AD8D99A3.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-19.07.15:646][206]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-19.07.16:602][260]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e2501c200, Size=240
+[2018.11.24-19.07.54:624][487]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dd0bcc200, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.07.54:636][487]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dd0bcc200, Size=4
+[2018.11.24-19.07.54:636][487]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dd0bcc200, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_133:ExecuteUbergraph_BP_Door
+[2018.11.24-19.07.54:637][487]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dd0bcc950, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.07.56:153][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dd0bcc950, Size=4
+[2018.11.24-19.07.56:153][574]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dd0bcc950, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_135:ExecuteUbergraph_BP_Door
+[2018.11.24-19.07.56:155][574]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dd0bcdcb0, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.08.18:119][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.08.18:801][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dd0bcc950, Size=4
+[2018.11.24-19.08.18:801][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dd0bcc200, Size=4
+[2018.11.24-19.08.19:121][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_1" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.24-19.08.19:702][842]LogSavePackage: Save=542.77ms
+[2018.11.24-19.08.19:702][842]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/Fase_1949637A5451B339481DFDC9EB7EBC6B8.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap'
+[2018.11.24-19.08.19:709][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap
+[2018.11.24-19.08.19:753][842]LogFileHelpers: Saving map 'Fase_1' took 0.718
+[2018.11.24-19.08.19:798][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.08.19:834][842]LogSavePackage: Save=28.39ms
+[2018.11.24-19.08.19:834][842]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Door79F02A774489ACC2BA14A8B30922EE17.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.08.19:838][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.09.13:063][  2]BlueprintLog: New page: Compile BP_Door
+[2018.11.24-19.09.13:068][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dd0bcdcb0, Size=4
+[2018.11.24-19.09.13:068][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e391914a8, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_137:ExecuteUbergraph_BP_Door
+[2018.11.24-19.09.13:080][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e398f76a0, Size=4
+[2018.11.24-19.09.13:080][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e39191008, Size=4, Default__BP_Door_C Function /Engine/Transient.REINST_BP_Door_C_141:ExecuteUbergraph_BP_Door
+[2018.11.24-19.09.13:082][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e449e5940, Size=160, Default__BP_Door_C Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.09.13:482][  2]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e391914a8, Size=4
+[2018.11.24-19.09.13:996][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.09.14:030][ 17]LogSavePackage: Save=25.26ms
+[2018.11.24-19.09.14:030][ 17]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Door1CA553D84F84C3114694EF956FE5300D.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.09.14:034][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.09.21:186][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.09.21:214][423]LogSavePackage: Save=17.48ms
+[2018.11.24-19.09.21:215][423]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_DoorF52026524DD11AF33DA7898AF7D221A8.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.09.21:218][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.09.25:748][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.09.27:678][705]LogAIModule: Creating AISystem for world TestMap
+[2018.11.24-19.09.27:738][705]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e39191008, Size=4
+[2018.11.24-19.09.28:912][705]LogSlate: Window 'Save Content' being destroyed
+[2018.11.24-19.09.29:128][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Fase_1" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.24-19.09.29:680][705]LogSavePackage: Save=519.65ms
+[2018.11.24-19.09.29:680][705]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/Fase_1A58FE62E4CCA89420847C58396A36A71.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap'
+[2018.11.24-19.09.29:684][705]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap
+[2018.11.24-19.09.29:723][705]LogFileHelpers: Saving map 'Fase_1' took 0.680
+[2018.11.24-19.09.29:724][705]Cmd: MAP LOAD FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.24-19.09.29:724][705]LightingResults: New page: Lighting Build
+[2018.11.24-19.09.29:726][705]LoadErrors: New page: Loading map: TestMap.umap
+[2018.11.24-19.09.29:734][705]MapCheck: New page: Map Check
+[2018.11.24-19.09.29:734][705]LightingResults: New page: Lighting Build
+[2018.11.24-19.09.29:976][705]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.24-19.09.30:053][705]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.24-19.09.30:143][705]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.527ms to complete.
+[2018.11.24-19.09.30:143][705]LogFileHelpers: Loading map 'TestMap' took 0.420
+[2018.11.24-19.09.35:488][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2018.11.24-19.09.41:595][244]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.11.24-19.09.42:108][266]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.24-19.09.43:039][302]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.24-19.09.44:407][370]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.24-19.09.45:090][403]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.11.24-19.09.45:649][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.09.49:729][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.09.52:198][727]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2018.11.24-19.09.55:900][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.09.56:002][910]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.24-19.09.56:106][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-19.09.56:179][910]PIE: New page: PIE session: TestMap (Nov 24, 2018, 3:09:56 PM)
+[2018.11.24-19.09.56:189][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2018.11.24-19.09.56:232][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042560s)
+[2018.11.24-19.09.56:233][910]LogAIModule: Creating AISystem for world TestMap
+[2018.11.24-19.09.56:242][910]LogPlayLevel: PIE: World Init took: (0.010435s)
+[2018.11.24-19.09.56:242][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.053361s)
+[2018.11.24-19.09.56:300][910]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.24-19.09.56:393][910]LogInit: FAudioDevice initialized.
+[2018.11.24-19.09.56:593][910]LogLoad: Game class is 'GM_Base_C'
+[2018.11.24-19.09.56:704][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.11.24-17.09.56
+[2018.11.24-19.09.56:869][910]LogWorld: Bringing up level for play took: 0.194156
+[2018.11.24-19.09.56:965][910]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.11.24-19.09.57:050][910]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.436
+[2018.11.24-19.09.57:215][910]LogRenderer: Reallocating scene render targets to support 1024x748 Format 10 NumSamples 1 (Frame:1).
+[2018.11.24-19.10.04:675][236]LogSlate: Window 'Demons_World_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.24-19.10.08:767][456]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2018.11.24-19.10.10:226][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.10.41:204][341]BlueprintLog: New page: Compile BP_Door
+[2018.11.24-19.10.41:222][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e449e5940, Size=160
+[2018.11.24-19.10.41:222][341]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021d8ac56a20, Size=160, Default__BP_Door_C Function /Engine/Transient.REINST_BP_Door_C_147:ExecuteUbergraph_BP_Door
+[2018.11.24-19.10.41:224][341]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e2d5eaf20, Size=160, Default__BP_Door_C Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.10.42:196][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.10.42:249][363]LogSavePackage: Save=30.80ms
+[2018.11.24-19.10.42:249][363]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Door9235F2CF4631BA55BA2E8BA15E9D660C.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.10.42:252][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.10.43:403][425]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.24-19.10.43:447][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-19.10.43:448][425]PIE: New page: PIE session: TestMap (Nov 24, 2018, 3:10:43 PM)
+[2018.11.24-19.10.43:448][425]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2018.11.24-19.10.43:452][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004356s)
+[2018.11.24-19.10.43:453][425]LogAIModule: Creating AISystem for world TestMap
+[2018.11.24-19.10.43:454][425]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2018.11.24-19.10.43:454][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.005737s)
+[2018.11.24-19.10.43:483][425]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.24-19.10.43:561][425]LogInit: FAudioDevice initialized.
+[2018.11.24-19.10.43:727][425]LogLoad: Game class is 'GM_Base_C'
+[2018.11.24-19.10.43:730][425]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.11.24-17.10.43
+[2018.11.24-19.10.43:731][425]LogWorld: Bringing up level for play took: 0.002229
+[2018.11.24-19.10.43:744][425]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 1.13
+[2018.11.24-19.10.48:227][618]LogSlate: Window 'Demons_World_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.24-19.10.58:464][186]BlueprintLog: New page: Compile BP_Door
+[2018.11.24-19.10.58:483][186]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e2d5eaf20, Size=160
+[2018.11.24-19.10.58:483][186]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de82d3ec0, Size=160, BP_Door_C_1100 Function /Engine/Transient.REINST_BP_Door_C_153:ExecuteUbergraph_BP_Door
+[2018.11.24-19.10.58:485][186]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de82d2a20, Size=160, Default__BP_Door_C Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.10.59:663][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.10.59:699][217]LogSavePackage: Save=29.31ms
+[2018.11.24-19.10.59:699][217]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Door0AA82AFB4991AF871F9481B896F012E7.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.10.59:702][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.11.01:013][288]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.24-19.11.01:046][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-19.11.01:047][288]PIE: New page: PIE session: TestMap (Nov 24, 2018, 3:11:01 PM)
+[2018.11.24-19.11.01:047][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2018.11.24-19.11.01:051][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004636s)
+[2018.11.24-19.11.01:052][288]LogAIModule: Creating AISystem for world TestMap
+[2018.11.24-19.11.01:053][288]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2018.11.24-19.11.01:053][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006143s)
+[2018.11.24-19.11.01:079][288]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021de82d3ec0, Size=160
+[2018.11.24-19.11.01:082][288]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.24-19.11.01:161][288]LogInit: FAudioDevice initialized.
+[2018.11.24-19.11.01:294][288]LogLoad: Game class is 'GM_Base_C'
+[2018.11.24-19.11.01:297][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.11.24-17.11.01
+[2018.11.24-19.11.01:297][288]LogWorld: Bringing up level for play took: 0.001976
+[2018.11.24-19.11.01:305][288]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.691
+[2018.11.24-19.11.11:098][753]LogSlate: Window 'Demons_World_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.24-19.11.22:172][385]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.24-19.11.22:203][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-19.11.22:203][385]PIE: New page: PIE session: TestMap (Nov 24, 2018, 3:11:22 PM)
+[2018.11.24-19.11.22:204][385]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2018.11.24-19.11.22:214][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009926s)
+[2018.11.24-19.11.22:215][385]LogAIModule: Creating AISystem for world TestMap
+[2018.11.24-19.11.22:216][385]LogPlayLevel: PIE: World Init took: (0.001898s)
+[2018.11.24-19.11.22:216][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.012184s)
+[2018.11.24-19.11.22:245][385]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.24-19.11.22:327][385]LogInit: FAudioDevice initialized.
+[2018.11.24-19.11.22:449][385]LogLoad: Game class is 'GM_Base_C'
+[2018.11.24-19.11.22:451][385]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.11.24-17.11.22
+[2018.11.24-19.11.22:452][385]LogWorld: Bringing up level for play took: 0.001841
+[2018.11.24-19.11.22:457][385]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap -0.157
+[2018.11.24-19.11.28:139][652]LogSlate: Window 'Demons_World_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.24-19.11.29:701][723]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2018.11.24-19.11.31:982][830]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2018.11.24-19.11.33:003][883]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.11.24-19.11.33:902][916]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2018.11.24-19.11.36:287][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.11.38:354][156]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e2ea09b70, Size=4, Default__SKEL_BP_Door_C Function /Game/Blueprints/BP_Door.SKEL_BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.11.39:257][208]BlueprintLog: New page: Compile BP_Door
+[2018.11.24-19.11.39:261][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e2ea09b70, Size=4
+[2018.11.24-19.11.39:261][208]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e2ea09b70, Size=4, Default__SKEL_BP_Door_C Function /Engine/Transient.REINST_SKEL_BP_Door_C_157:ExecuteUbergraph_BP_Door
+[2018.11.24-19.11.39:270][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021de82d2a20, Size=160
+[2018.11.24-19.11.39:270][208]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e43e6c0e0, Size=160, BP_Door_C_1126 Function /Engine/Transient.REINST_BP_Door_C_161:ExecuteUbergraph_BP_Door
+[2018.11.24-19.11.39:272][208]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021de82d2520, Size=160, Default__BP_Door_C Function /Game/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.11.24-19.11.39:745][208]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e2ea09b70, Size=4
+[2018.11.24-19.11.44:083][428]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key)
+[2018.11.24-19.11.47:779][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.11.51:124][779]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2018.11.24-19.11.53:192][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.11.53:282][885]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.24-19.11.53:315][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-19.11.53:316][885]PIE: New page: PIE session: TestMap (Nov 24, 2018, 3:11:53 PM)
+[2018.11.24-19.11.53:316][885]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2018.11.24-19.11.53:321][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005174s)
+[2018.11.24-19.11.53:322][885]LogAIModule: Creating AISystem for world TestMap
+[2018.11.24-19.11.53:322][885]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2018.11.24-19.11.53:322][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.006377s)
+[2018.11.24-19.11.53:351][885]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.24-19.11.53:432][885]LogInit: FAudioDevice initialized.
+[2018.11.24-19.11.53:555][885]LogLoad: Game class is 'GM_Base_C'
+[2018.11.24-19.11.53:558][885]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.11.24-17.11.53
+[2018.11.24-19.11.53:559][885]LogWorld: Bringing up level for play took: 0.002961
+[2018.11.24-19.11.53:571][885]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0.957
+[2018.11.24-19.12.06:398][491]LogSlate: Window 'Demons_World_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.24-19.12.17:935][142]BlueprintLog: New page: Compile BP_Key
+[2018.11.24-19.12.17:952][142]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e396cf700, Size=248
+[2018.11.24-19.12.17:952][142]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021dcc76dc00, Size=248, Default__BP_Key_C Function /Engine/Transient.REINST_BP_Key_C_165:ExecuteUbergraph_BP_Key
+[2018.11.24-19.12.17:955][142]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e2b4f4500, Size=240, Default__BP_Key_C Function /Game/Blueprints/BP_Key.BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.12.18:836][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-19.12.18:882][155]LogSavePackage: Save=30.96ms
+[2018.11.24-19.12.18:882][155]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_KeyDEF030204964F0F5FB67829556DDBB7E.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-19.12.18:885][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-19.12.23:050][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.24-19.12.23:178][380]LogSavePackage: Save=86.06ms
+[2018.11.24-19.12.23:178][380]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/TestMap58EF307843E5B560B45D46931581BE62.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/TestMap.umap'
+[2018.11.24-19.12.23:181][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/TestMap.umap
+[2018.11.24-19.12.23:222][380]LogFileHelpers: Saving map 'TestMap' took 0.259
+[2018.11.24-19.12.23:264][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2018.11.24-19.12.23:306][380]LogSavePackage: Save=32.69ms
+[2018.11.24-19.12.23:306][380]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_DoorEB84B8C745FFA65A319A9284C66F061C.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset'
+[2018.11.24-19.12.23:310][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Door.uasset
+[2018.11.24-19.12.23:318][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-19.12.23:352][380]LogSavePackage: Save=27.65ms
+[2018.11.24-19.12.23:352][380]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_Key5F2A45F2485E3208E3D08880EA2C1997.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-19.12.23:355][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-19.12.28:432][650]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.24-19.12.28:575][651]LogRenderer: Reallocating scene render targets to support 1024x752 Format 10 NumSamples 1 (Frame:2983).
+[2018.11.24-19.12.32:071][806]LogAIModule: Creating AISystem for world Fase_1
+[2018.11.24-19.12.32:199][806]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e43e6c0e0, Size=160
+[2018.11.24-19.12.32:200][806]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021dcc76dc00, Size=248
+[2018.11.24-19.12.32:200][806]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021d8ac56a20, Size=160
+[2018.11.24-19.12.32:203][806]Cmd: MAP LOAD FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Maps/Fase_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.24-19.12.32:203][806]LightingResults: New page: Lighting Build
+[2018.11.24-19.12.32:205][806]LoadErrors: New page: Loading map: Fase_1.umap
+[2018.11.24-19.12.32:206][806]MapCheck: New page: Map Check
+[2018.11.24-19.12.32:207][806]LightingResults: New page: Lighting Build
+[2018.11.24-19.12.32:496][806]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.24-19.12.32:568][806]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.24-19.12.32:661][806]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.04ms to complete.
+[2018.11.24-19.12.32:661][806]LogFileHelpers: Loading map 'Fase_1' took 0.459
+[2018.11.24-19.12.37:247][ 29]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2018.11.24-19.12.40:440][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.12.47:995][533]BlueprintLog: New page: Compile BP_Key
+[2018.11.24-19.12.48:008][533]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e2b4f4500, Size=240
+[2018.11.24-19.12.48:008][533]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e0b58d600, Size=240, Default__BP_Key_C Function /Engine/Transient.REINST_BP_Key_C_169:ExecuteUbergraph_BP_Key
+[2018.11.24-19.12.48:011][533]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e0b7d5b00, Size=240, Default__BP_Key_C Function /Game/Blueprints/BP_Key.BP_Key_C:ExecuteUbergraph_BP_Key
+[2018.11.24-19.12.48:852][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2018.11.24-19.12.48:897][547]LogSavePackage: Save=30.79ms
+[2018.11.24-19.12.48:897][547]LogSavePackage: Moving '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Saved/BP_KeyAF61928443C6B9B0561EE19D1872614F.tmp' to '../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset'
+[2018.11.24-19.12.48:900][547]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/DELL/Documents/GitHub/Demons_World_Game/Content/Blueprints/BP_Key.uasset
+[2018.11.24-19.12.56:290][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.13.04:005][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.24-19.13.04:079][280]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.24-19.13.04:112][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.24-19.13.04:112][280]PIE: New page: PIE session: Fase_1 (Nov 24, 2018, 3:13:04 PM)
+[2018.11.24-19.13.04:112][280]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Fase_1
+[2018.11.24-19.13.04:153][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040658s)
+[2018.11.24-19.13.04:153][280]LogAIModule: Creating AISystem for world Fase_1
+[2018.11.24-19.13.04:154][280]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.11.24-19.13.04:154][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Fase_1.Fase_1 to /Game/Maps/UEDPIE_0_Fase_1.Fase_1 (0.041512s)
+[2018.11.24-19.13.04:181][280]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e0b58d600, Size=240
+[2018.11.24-19.13.04:188][280]LogInit: XAudio2 using 'Fones de ouvido / Alto falantes (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.24-19.13.04:268][280]LogInit: FAudioDevice initialized.
+[2018.11.24-19.13.04:444][280]LogLoad: Game class is 'GM_Base_C'
+[2018.11.24-19.13.06:016][280]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.565 s
+[2018.11.24-19.13.06:016][280]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: 
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 16]
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: Stack: 
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x000000002E7AB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x000000002E50AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x000000002E51ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000243590B0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000024345473 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x000000002427F913 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000242A1D06 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000023E6EC9B UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000024731CDE UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000025115347 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000250F6F63 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000245E42A2 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000211727E0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000021191246 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000211ABBEF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000020C1C961 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000214B9626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000AEAA5EAC UE4Editor.exe!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000AEAB6BD0 UE4Editor.exe!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000AEAB6C4A UE4Editor.exe!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000AEAC4177 UE4Editor.exe!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x00000000AEAC5B87 UE4Editor.exe!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000076503034 KERNEL32.DLL!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: [Callstack] 0x0000000079011471 ntdll.dll!UnknownFunction []
+[2018.11.24-19.13.06:017][280]LogOutputDevice: Error: 
+[2018.11.24-19.13.06:023][280]LogStats:                SubmitErrorReport -  0.000 s
